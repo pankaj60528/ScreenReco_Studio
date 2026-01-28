@@ -1,0 +1,10 @@
+{
+  "/api/analytics/view/route": "app/api/analytics/view/route.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/api/videos/[id]/route": "app/api/videos/[id]/route.js",
+  "/api/videos/route": "app/api/videos/route.js",
+  "/page": "app/page.js",
+  "/record/page": "app/record/page.js",
+  "/videos/page": "app/videos/page.js",
+  "/watch/[id]/page": "app/watch/[id]/page.js"
+}
